@@ -1,15 +1,15 @@
 {
-  "name": "LAKA-MD",
-  "description": "Powerd By Laka Md",
+  "name": "16IXTXXN-MD",
+  "description": "Powerd By 16ixtxxn",
   "logo": "https://i.ibb.co/sKmDFhk/7919.jpg",
-  "keywords": ["lakamd", "bot", "whatsapp bot", "multi device", "laka-md"],
+  "keywords": ["16ixtxxnmd", "bot", "whatsapp bot", "multi device", "16ixtxxn-md"],
   "success_url": "/",
 
   "env": {
     "SESSION_ID": {
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
-            "value": "put session id here"
+            "value": "LAKA-MD=9toGxJzJ#NJoigqn1rQh0wvYvuc9cyn9D5CUFkjTWD_ZMtd_JZXk"
         }
     },
          "buildpacks": [
